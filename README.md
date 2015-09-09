@@ -26,3 +26,10 @@ use of CSP and transducers. Futures are interesting as well.
 There's an [open source C implementation](http://users.eecs.northwestern.edu/~wkliao/Kmeans/)
 from a master student (Halil Bisain, Istanbul Technical University, Turkey). It has
 a sequential implementation, an implementation using OpenMP and another one using MPI.
+
+## F#
+
+Implementation in F#:
+
+- ~~Synchronous implementation (to get to know the language)~~
+- Using TPL (Task parallel library)
