@@ -31,5 +31,5 @@ a sequential implementation, an implementation using OpenMP and another one usin
 
 Implementation in F#:
 
-- Synchronous implementation (to get to know the language)
+- ~~Synchronous implementation (to get to know the language)~~
 - Using TPL (Task parallel library)
